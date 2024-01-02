@@ -1,4 +1,6 @@
-### 안녕하세요. 웹 개발이 즐거운 서종화입니다. 더 높은 수준의 자바 백엔드 개발자를 목표로 하고 있습니다!
+### 안녕하세요. 웹 개발이 즐거운 서종화입니다.
+
+### 더 높은 수준의 자바 백엔드 개발자를 목표로 하고 있습니다!
 
 <!--
 **birdcraft/birdcrafte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
