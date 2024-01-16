@@ -1,4 +1,4 @@
-### Hello, I'm Jonghwa Seo, a Java Full Stack Web Developer 😄
+### Hello, I'm Jonghwa Seo, a Java Web Developer 😄
 
 
 <!--
