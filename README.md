@@ -1,4 +1,4 @@
-### Hello, I'm Jonghwa Seo, a Java Web Developer 😄
+### Hello
 
 
 <!--
