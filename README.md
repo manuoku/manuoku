@@ -1,4 +1,4 @@
-👋 Hi there 👋
+Hi there. 👋
 Welcome to Whatkinda Dev Place. 🦉
 
 I'm interested in ..
