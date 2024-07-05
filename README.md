@@ -5,6 +5,6 @@ I'm interested in ..
 
 ---
 
-[![Jonghwa Seo's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitetern&show_icons=true&hide=contribs&theme=merko&include_all_commits=true&count_private=true)](https://github.com/whitetern)
+[![Jonghwa Seo's GitHub stats](https://github-readme-stats.vercel.app/api?username=whatkinda&show_icons=true&hide=contribs&theme=merko&include_all_commits=true&count_private=true)](https://github.com/whitetern)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whitetern&layout=compact&custom_title=Languages&bg_color=000&title_color=fff&text_color=fff&include_all_commits=true&count_private=true)](https://github.com/whitetern)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whatkinda&layout=compact&custom_title=Languages&bg_color=000&title_color=fff&text_color=fff&include_all_commits=true&count_private=true)](https://github.com/whitetern)
