@@ -1,0 +1,20 @@
+name: Generate README
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Generate README
+        run: |
+          curl -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
+          https://github-readme-stats.vercel.app/api?username=whitetern&show_icons=true&hide=contribs&theme=merko&count_private=true&include_all_commits=true -o README.md
